@@ -30,7 +30,7 @@ body{
 }
 
 .conteudo-titulo{
-    text-align: center;
+    text-align: center;06
     margin-top: 80px;
 }
 
@@ -46,7 +46,7 @@ body{
     border: none;
     color: var(--branco);
     font-family: var(--roboto-mono);
-    font-size: 40px;
+    font-size: 40px;06
     width: 70%;
 }
 
